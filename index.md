@@ -11,7 +11,7 @@
 <body>
 	<div class="bgimg">
 		<div class="prof">
-			<img src="abhib074/Portfolio/Abhi.jpg">
+			<img src="Abhi.JPG">
 			<div class="profileText">
 				<h2>Abhishek Behera</h2>
 				<p>CODER | PIANIST</p>			

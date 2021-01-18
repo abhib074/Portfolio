@@ -21,7 +21,7 @@
 			<a href="https://www.instagram.com/_abhishek__21_/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
 			<a href="https://www.youtube.com/channel/UCDFXQx-iH6LdYYD8L16gz2Q" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a>
 			<a href="https://www.facebook.com/abhishek.behera.3386/" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
-			<a href="E:\Site Profile\Resume.pdf" download="Abhishek Resume" target="_blank"><i class="fa fa-cloud-download fa-2x"></i></a>
+			<a href="Resume.pdf" download="Abhishek Resume" target="_blank"><i class="fa fa-cloud-download fa-2x"></i></a>
 		</div>
 		</div>
 	</div>
